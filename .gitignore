@@ -1,0 +1,8 @@
+*.log
+*/node_modules/
+chineseNMTmodel/
+ChineseNMT/
+*.pth
+node_modules
+*/transformer_settings/models/
+system/server/src/transformer_settings/models

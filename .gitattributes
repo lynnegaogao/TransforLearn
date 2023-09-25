@@ -1,0 +1,7 @@
+ChineseNMT/experiment/models/NewArc_small_with_NoamOpt_no_LabelSmoothing_model.pth filter=lfs diff=lfs merge=lfs -text
+ChineseNMT/experiment/models/small_with_NoamOpt_no_LabelSmoothing_model.pth filter=lfs diff=lfs merge=lfs -text
+system/server/src/transformer_settings/models/change_with_NoamOpt_no_LabelSmoothing_model.pth filter=lfs diff=lfs merge=lfs -text
+ChineseNMT/experiment/models/with_NoamOpt_no_LabelSmoothing_model.pth filter=lfs diff=lfs merge=lfs -text
+system/server/src/transformer_settings/models/NewArc_small_with_NoamOpt_no_LabelSmoothing_model.pth filter=lfs diff=lfs merge=lfs -text
+system/server/src/transformer_settings/models/small_with_NoamOpt_no_LabelSmoothing_model.pth filter=lfs diff=lfs merge=lfs -text
+system/server/src/transformer_settings/models/with_NoamOpt_no_LabelSmoothing_model.pth filter=lfs diff=lfs merge=lfs -text
