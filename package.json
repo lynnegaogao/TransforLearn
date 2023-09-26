@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ant-design-vue": "^4.0.3",
     "antd": "^5.6.1",
     "vue-router": "^4.2.5"
   }

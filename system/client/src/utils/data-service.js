@@ -11,8 +11,8 @@ let DataService = {
     // console.log(host)
     if (host.startsWith('10.')||host.startsWith('localhost')) {
       this.dataServerUrl = 'http://10.192.9.11:8090';
-    } else if (host.startsWith('103.')) {
-      this.dataServerUrl = 'http://103.21.143.204:41090';
+    } else if (host.startsWith('124.')) {
+      this.dataServerUrl = 'http://124.220.133.205:41090';
     } else {
       console.log('Unknown IP address');
     }
